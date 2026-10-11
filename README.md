@@ -17,7 +17,7 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-This website is for UC Berkeley students and visitors who want to learn about useful and interesting places around campus. The first eight resources were provided by COMPSCI 211A, and I added [Berkeley Art Studio](https://artstudio.berkeley.edu/) to highlight a fun place where people can take art classes. I used the official Berkeley Art Studio website to check who can register for classes.
+This website is for UC Berkeley students and visitors who want to learn about useful and interesting places around campus. The first eight resources were provided by COMPSS 211A, and I added [Berkeley Art Studio](https://artstudio.berkeley.edu/) to highlight a fun place where people can take art classes. I used the official Berkeley Art Studio website to check who can register for classes.
 
 ## Website checks
 
