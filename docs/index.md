@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Hidden Berkeley
+# Discover Berkeley: Beyond the Campus
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+Berkeley is a vibrant city known for its university, diverse culture, and unique neighborhoods. Beyond the famous campus, visitors can discover hidden gardens, local restaurants, and scenic spots that make Berkeley special.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
