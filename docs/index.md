@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Discover Berkeley: Beyond the Campus
+# Beyond the Classroom: Discover UC Berkeley
 
-Berkeley is a vibrant city known for its university, diverse culture, and unique neighborhoods. Beyond the famous campus, visitors can discover hidden gardens, local restaurants, and scenic spots that make Berkeley special.
+UC Berkeley offers more than just academics, with unique spaces, creative opportunities, and resources that support student life. From peaceful study spots to hands-on experiences and campus attractions, there is always something new to discover beyond the classroom.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
