@@ -1,7 +1,7 @@
 location_id,name,category,area,access_note,source_url
 HB01,D-Lab,methods support,Social Sciences Building,Check the official site for current access details,https://dlab.berkeley.edu/
 HB02,BAMPFA Film Library and Study Center,media research,Downtown Berkeley,Confirm appointments and access on the official site,https://bampfa.org/
-HB03,Morrison Library,quiet reading,Doe Library,Check the UC Berkeley Library website for Morrison Library's current hours and visitor access information.,https://www.lib.berkeley.edu/visit/morrison.
+HB03,Morrison Library,quiet reading,Doe Library,Check the UC Berkeley Library website for Morrison Library's current hours and visitor access information.,https://www.lib.berkeley.edu/visit/morrison
 HB04,Jacobs Institute Makerspace,prototyping,North campus,Training may be required before equipment use,https://jacobsinstitute.berkeley.edu/
 HB05,Basic Needs Center,student support,UC Berkeley,Use official pages for eligibility and hours,https://basicneeds.berkeley.edu/
 HB06,Disabled Students' Program,access support,UC Berkeley,Do not publish private accommodation information,https://dsp.berkeley.edu/
