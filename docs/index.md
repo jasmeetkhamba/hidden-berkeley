@@ -5,7 +5,7 @@ title: Hidden Berkeley
 
 # Beyond the Classroom: Discover UC Berkeley
 
-UC Berkeley offers more than just academics, with unique spaces, creative opportunities, and resources that support student life. From peaceful study spots to hands-on experiences and campus attractions, there is always something new to discover beyond the classroom.
+UC Berkeley is ranked as the #1 public university in the United States, but there is more to campus life than academics. From quiet places to study and relax to fun activities and helpful resources, students and visitors have plenty to discover around campus.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
